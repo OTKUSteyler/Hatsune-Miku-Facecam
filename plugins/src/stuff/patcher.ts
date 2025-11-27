@@ -3,7 +3,7 @@ import { React, ReactNative as RN } from "@vendetta/metro/common";
 import { after, before } from "@vendetta/patcher";
 
 import { lang } from "..";
-import Kiryu, { openSet } from "../components/Kiryu";
+import Kiryu, { openSet } from "../components/miku";
 import { sendAction } from "./frames";
 
 const _ChatInput = findByProps("ChatInput")?.ChatInput;
