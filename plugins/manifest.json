@@ -1,0 +1,14 @@
+{
+	"name": "Hatsune Miku Facecam",
+	"description": "Have Hatsune Miku accompany you while you type. Don't worry, she doesn't bite!",
+	"authors": [
+		{
+			"name": "btmc727",
+			"id": "554071670143451176"
+		}
+	],
+	"main": "src/index.ts",
+	"vendetta": {
+		"icon": "UserSquareIcon"
+	}
+}
